@@ -9,3 +9,5 @@ when we use wireshark or any packet sniffer we will see it in plain text, game c
 before sending that data out to client/server
 
 in this example we will not use encryptions like the one in my example here in the repo, but instead we will mask a simple plain text to HEX before sending over the internet.
+
+![Screenshot](https://github.com/jasnnh/DataConversion/blob/main/ss.PNG)
